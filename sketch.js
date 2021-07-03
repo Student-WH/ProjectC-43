@@ -21,11 +21,10 @@ function draw() {
   text("Score: " + score, 450, 50);
 
   if(score === 3) {
-    clear()
-    background(bg2)
-    fill("black")
-    textSize(40);
-    text("TREASURE UNLOCKED",250, 200);
+   
+    
+    
+    
   }
 
   drawSprites()
